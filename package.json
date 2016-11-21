@@ -2,10 +2,9 @@
   "name": "RUH",
   "version": "1.0.0",
   "description": "PROTOTYPE FOR RUH",
-  "main": "server.js",
+  "main": "run.js",
   "dependencies": {
     "asynch": "0.5.2",
-    "bcrypt": "^0.8.7",
     "bcryptjs": "^2.3.0",
     "body-parser": "1.15.1",
     "client-sessions": "^0.7.0",
